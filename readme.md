@@ -4,8 +4,6 @@
 
 > In this project, I applied the skills which I have acquired in this course to operationalize a Machine Learning Microservice API. This project tests my ability to operationalize a Python Flask App in a provided file, app.py that serves out predictions (inference) about housing prices through API calls.
 
-![img-1](Images-of-result-deploy/Project.png)
-
 > You are given a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on the data source site. 
 
 ## Project Tasks:
@@ -57,7 +55,3 @@ This project goal is to operationalize this working, machine learning microservi
 
 This repository has been verified with CircleCI
 
-## Run the project:
-```sh
-* Please follow to steps of screenshot in Images-of-result-deploy folder
-```
